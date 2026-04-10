@@ -464,6 +464,6 @@ Made with ❤️ by [Dev Book Lab](https://github.com/dev-book-lab)
 
 <br/>
 
-*"아키텍처는 폴더 구조가 아니다 — 변경이 전파되는 방향을 결정하는 것이다"*
+**"아키텍처는 폴더 구조가 아니다 — 변경이 전파되는 방향을 결정하는 것이다"*()
 
 </div>
